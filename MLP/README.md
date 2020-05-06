@@ -9,9 +9,9 @@ The code contains a hardcoded dataset and works for 4 epochs
 ### As per directed by ma'am
 The program should contain functions to
 - Read the dataset from file = DONE
-- Split the data into train and test. Ensure the data is split in the same way every time the program runs = NOT DONE
+- Split the data into train and test. Ensure the data is split in the same way every time the program runs = DONE
 - Initialise the weights of the perceptron, learning rate and epochs = DONE
-- Define the activation function = NOT SURE
+- Define the activation function = DONE
 - Train the model i.e. Learn the weights of the perceptron on the training data = DONE
 - Print the learned weights and the hyperparameters (epoch and learning rate) = WILL DO
 - Predict the outputs on train and test data = NOT SURE
