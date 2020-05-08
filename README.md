@@ -5,12 +5,11 @@ Contains the implementation of Machine Learning Algorithms given as an assignmen
 Team Members
 Submitted by:
 
-`
-    Aman Bhatnagar - 1MS17IS144
-    Ujwal KC - 1MS17IS125
-    Raghav Maheshwari - 1MS17IS086
-`
+1. Aman Bhatnagar - 1MS17IS144
+2. Ujwal KC - 1MS17IS125
+3. Raghav Maheshwari - 1MS17IS086
 
+Folder Structure
 ML_Assignment
   │   README.md
   └───Assignment_MLP
