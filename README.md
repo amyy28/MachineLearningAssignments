@@ -2,7 +2,8 @@
 
 Contains the implementation of Machine Learning Algorithms given as an assignment for CIE Component.
 
-Assignment 1: Implementation of Single Layer Perceptron
+- Assignment 1 : Implementation of Single Layer Perceptron
+- Assignment 2 : Implementation of Support Vector Machine on Iris Dataset
 
 Team Members
 
