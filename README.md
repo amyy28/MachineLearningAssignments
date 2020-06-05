@@ -4,6 +4,7 @@ Contains the implementation of Machine Learning Algorithms given as an assignmen
 
 - Assignment 1 : Implementation of Single Layer Perceptron
 - Assignment 2 : Implementation of Support Vector Machine on Iris Dataset
+- Assignment 3 : Implementation of kNN Algorithm on Diabetes dataset
 
 Team Members
 
